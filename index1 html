@@ -6,9 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Portfolio – Linda SCHEVEILER</title>
   <meta name="description" content="Portfolio de Linda SCHEVEILER – Chargée de contrôle et de suivi des risques, transition Data Analyste." />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css" />
+  https://fonts.gstatic.com
+  https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap
+  styles.css
 </head>
 <body>
   <header class="site-header">
@@ -18,12 +18,12 @@
         <p class="tagline">Chargée de contrôle & conformité → <strong>Data Analyste</strong></p>
         <ul class="contact">
           <li>📍 Antony (92160)</li>
-          <li>📧 <a href="mailto:linda.scheveiler@axa.fr">linda.scheveiler@axa.fr</a></li>
-          <li>☎️ <a href="tel:+33621288637">06&nbsp;21&nbsp;28&nbsp;86&nbsp;37</a></li>
-          </ul>
+          <li>📧 mailto:linda.scheveiler@axa.frlinda.scheveiler@axa.fr</a></li>
+          <li>☎️ tel:+3362128863706&nbsp;21&nbsp;28&nbsp;86&nbsp;37</a></li>
+        </ul>
         <div class="cta">
-          <a class="btn primary" href="#projets">Voir mes projets</a>
-          <a class="btn" href="#contact">Me contacter</a>
+          #projetsVoir mes projets</a>
+          #contactMe contacter</a>
         </div>
       </div>
       <div class="pillars">
@@ -51,7 +51,7 @@
           Professionnelle expérimentée en contrôle, conformité et reporting, je conçois des outils de pilotage
           et des contrôles automatisés, valorise les données avec <strong>Databricks (PySpark)</strong>, et
           produis des <strong>rapports dynamiques Power BI</strong>. Mon objectif : mettre ces compétences au service
-          d'un poste de <strong>Chef de projet Data</strong>.
+          d'un poste de <strong>Data Analyste</strong> pour transformer les données en décisions.
         </p>
       </div>
     </section>
@@ -196,8 +196,8 @@
           <p>Ouverte aux opportunités Data Analyste en Île-de-France ou hybride.</p>
           <ul class="contact big">
             <li>📍 Antony (92160)</li>
-            <li>📧 <a href="mailto:linda.scheveiler@axa.fr">linda.scheveiler@axa.fr</a></li>
-            <li>☎️ <a href="tel:+33621288637">06&nbsp;21&nbsp;28&nbsp;86&nbsp;37</a></li>
+            <li>📧 mailto:linda.scheveiler@axa.frlinda.scheveiler@axa.fr</a></li>
+            <li>☎️ tel:+3362128863706&nbsp;21&nbsp;28&nbsp;86&nbsp;37</a></li>
           </ul>
         </div>
         <form class="contact-form" onsubmit="alert('Merci Linda ! Votre message a bien été simulé dans cette démo.'); return false;">
