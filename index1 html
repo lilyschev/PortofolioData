@@ -1,0 +1,227 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portfolio – Linda SCHEVEILER</title>
+  <meta name="description" content="Portfolio de Linda SCHEVEILER – Chargée de contrôle et de suivi des risques, transition Data Analyste." />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-grid">
+      <div>
+        <h1 class="name">Linda <span>SCHEVEILER</span></h1>
+        <p class="tagline">Chargée de contrôle & conformité → <strong>Data Analyste</strong></p>
+        <ul class="contact">
+          <li>📍 Antony (92160)</li>
+          <li>📧 <a href="mailto:linda.scheveiler@axa.fr">linda.scheveiler@axa.fr</a></li>
+          <li>☎️ <a href="tel:+33621288637">06&nbsp;21&nbsp;28&nbsp;86&nbsp;37</a></li>
+          </ul>
+        <div class="cta">
+          <a class="btn primary" href="#projets">Voir mes projets</a>
+          <a class="btn" href="#contact">Me contacter</a>
+        </div>
+      </div>
+      <div class="pillars">
+        <div class="pillar">
+          <h3>Data</h3>
+          <p>PySpark · Databricks · Python · Power BI</p>
+        </div>
+        <div class="pillar">
+          <h3>Finance</h3>
+          <p>Adossement actif/passif · Performance · Opérations sur titres</p>
+        </div>
+        <div class="pillar">
+          <h3>Conformité</h3>
+          <p>Contrôles automatisés · LCB-FT · Process & qualité</p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="a-propos" class="section">
+      <div class="container">
+        <h2>À propos</h2>
+        <p>
+          Professionnelle expérimentée en contrôle, conformité et reporting, je conçois des outils de pilotage
+          et des contrôles automatisés, valorise les données avec <strong>Databricks (PySpark)</strong>, et
+          produis des <strong>rapports dynamiques Power BI</strong>. Mon objectif : mettre ces compétences au service
+          d'un poste de <strong>Chef de projet Data</strong>.
+        </p>
+      </div>
+    </section>
+
+    <section id="competences" class="section">
+      <div class="container">
+        <h2>Compétences</h2>
+        <div class="skills-grid">
+          <div class="skill-card">
+            <h3>Data & Analytics</h3>
+            <ul>
+              <li>Python · PySpark · Databricks</li>
+              <li>Power BI · DAX · Modélisation</li>
+              <li>Excel avancé · VBA · WPS/SAS</li>
+            </ul>
+          </div>
+          <div class="skill-card">
+            <h3>Finance & Assurance</h3>
+            <ul>
+              <li>Adossement actif/passif</li>
+              <li>Analyse de performance (écarts A/P)</li>
+              <li>Gestion des opérations sur titres & passif collectif</li>
+            </ul>
+          </div>
+          <div class="skill-card">
+            <h3>Conformité & Contrôle</h3>
+            <ul>
+              <li>Contrôles automatisés</li>
+              <li>LCB-FT, conformité fiscale & successions</li>
+              <li>Amélioration continue des processus</li>
+            </ul>
+          </div>
+          <div class="skill-card">
+            <h3>Outils</h3>
+            <ul>
+              <li>Suite Office (Word, Excel, PowerPoint)</li>
+              <li>Nova (logiciel dédié)</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="experience" class="section">
+      <div class="container">
+        <h2>Expériences</h2>
+        <div class="timeline">
+          <article class="timeline-item">
+            <div class="timeline-date">Fév. 2019 – Aujourd'hui</div>
+            <div class="timeline-content">
+              <h3>Chargée de contrôle & conformité</h3>
+              <ul>
+                <li>Création d’outils de pilotage et de contrôles automatisés</li>
+                <li>Traitement & valorisation des données via <strong>Databricks (PySpark)</strong></li>
+                <li>Production de rapports dynamiques sous <strong>Power BI</strong></li>
+                <li>Contribution à l’amélioration des process internes</li>
+              </ul>
+            </div>
+          </article>
+          <article class="timeline-item">
+            <div class="timeline-date">Juin 2015 – Fév. 2019</div>
+            <div class="timeline-content">
+              <h3>Chargée de reporting / Passif – AWM</h3>
+              <ul>
+                <li>Connaissance de l’environnement financier adossement actif/passif</li>
+                <li>Analyse de la performance financière (écart actif/passif)</li>
+                <li>Gestion des opérations sur titres et du passif collectif</li>
+                <li>Automatisation des allocations en gestion sous mandats</li>
+              </ul>
+            </div>
+          </article>
+          <article class="timeline-item">
+            <div class="timeline-date">Juin 2011 – Juin 2015</div>
+            <div class="timeline-content">
+              <h3>Support technique – Épargne vie individuelle</h3>
+              <ul>
+                <li>Production, gestion & traitement des décès (réseau bancaire)</li>
+                <li>Application & contrôle des règles LCB-FT</li>
+                <li>Gestion des successions & conformité fiscale</li>
+              </ul>
+            </div>
+          </article>
+          <article class="timeline-item">
+            <div class="timeline-date">Juin 2002 – Juin 2009</div>
+            <div class="timeline-content">
+              <h3>Rédactrice technicienne – Épargne prévoyance vie (AXA Courtage)</h3>
+              <ul>
+                <li>Amélioration des processus de gestion</li>
+                <li>Opérations de production et de gestion</li>
+              </ul>
+            </div>
+          </article>
+          <article class="timeline-item">
+            <div class="timeline-date">Déc. 2000 – Juin 2002</div>
+            <div class="timeline-content">
+              <h3>Rédactrice – Épargne vie individuelle</h3>
+            </div>
+          </article>
+          <article class="timeline-item">
+            <div class="timeline-date">Juin 1997 – Déc. 2000</div>
+            <div class="timeline-content">
+              <h3>Rédactrice – Prévoyance vie individuelle</h3>
+            </div>
+          </article>
+          <article class="timeline-item">
+            <div class="timeline-date">Juin 1995 – Mai 1997</div>
+            <div class="timeline-content">
+              <h3>Alternance – Uni Europe (24 mois)</h3>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="projets" class="section">
+      <div class="container">
+        <h2>Projets sélectionnés</h2>
+        <div class="projects-grid">
+          <article class="project-card">
+            <h3>Contrôles automatisés de conformité</h3>
+            <p>Conception d’un framework de contrôles périodiques (Python/PySpark) avec reporting Power BI.</p>
+            <ul class="tags"><li>Python</li><li>PySpark</li><li>Power BI</li></ul>
+          </article>
+          <article class="project-card">
+            <h3>Tableaux de bord Power BI</h3>
+            <p>Modélisation et publication de rapports dynamiques pour le suivi des risques et KPI.</p>
+            <ul class="tags"><li>Power BI</li><li>DAX</li><li>Dataviz</li></ul>
+          </article>
+          <article class="project-card">
+            <h3>Databricks – Valorisation des données</h3>
+            <p>Traitements PySpark sur data lake : nettoyage, agrégation, indicateurs et alertes.</p>
+            <ul class="tags"><li>Databricks</li><li>PySpark</li><li>ETL</li></ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="container contact-wrap">
+        <div>
+          <h2>Contact</h2>
+          <p>Ouverte aux opportunités Data Analyste en Île-de-France ou hybride.</p>
+          <ul class="contact big">
+            <li>📍 Antony (92160)</li>
+            <li>📧 <a href="mailto:linda.scheveiler@axa.fr">linda.scheveiler@axa.fr</a></li>
+            <li>☎️ <a href="tel:+33621288637">06&nbsp;21&nbsp;28&nbsp;86&nbsp;37</a></li>
+          </ul>
+        </div>
+        <form class="contact-form" onsubmit="alert('Merci Linda ! Votre message a bien été simulé dans cette démo.'); return false;">
+          <label for="nom">Nom</label>
+          <input id="nom" name="nom" type="text" placeholder="Votre nom" required>
+          <label for="email">Email</label>
+          <input id="email" name="email" type="email" placeholder="Votre email" required>
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="4" placeholder="Votre message" required></textarea>
+          <button class="btn primary" type="submit">Envoyer</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="year"></span> Linda SCHEVEILER · Portfolio</p>
+    </div>
+  </footer>
+
+  <script>
+    // Mise à jour dynamique de l'année
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
